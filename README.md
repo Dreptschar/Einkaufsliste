@@ -5,7 +5,7 @@ __Name:__ Jonas Fabanius Kern
 
 __Geburtsdatum:__ 08.11.1998  
 
-__Hobbys:__
+__Hobbies:__
 - Essen  
 - Atmen
 - Programmieren
@@ -13,3 +13,4 @@ __Hobbys:__
 
 __Berufserfahrung:__
 gar keine
+
