@@ -5,7 +5,7 @@ __Name:__ Jonas Kern
 
 __Geburtsdatum:__ 08.11.1998  
 
-__Hobbys:__
+__Hobbies:__
 - Essen  
 - Atmen
 - Programmieren
